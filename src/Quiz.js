@@ -58,7 +58,7 @@ function Quiz() {
           </div>
           {selectedAnswer && (
             <div style={{ marginTop: '10px' }}>
-              {isCorrect ? 'Correct! 🎉' : 'Sorry, that’s not right. 😢'}
+              {isCorrect ? 'Correct!Great Job 🎉' : 'Sorry, that’s not right. Better luck next time. 😢'}
             </div>
           )}
         </>
