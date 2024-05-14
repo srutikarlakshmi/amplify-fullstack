@@ -20,3 +20,4 @@ The AWS Quiz App is a basic quiz application designed to help users learn about 
 ## Deployment 🌐
 
 The AWS Quiz App is deployed on AWS for easy access.
+You can access the live app [here](https://main.dyqjbhxeekuif.amplifyapp.com/).
